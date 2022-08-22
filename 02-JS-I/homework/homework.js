@@ -77,7 +77,7 @@ function menosQueNoventa(num) {
   
 }
 
-function mayorQueCincuenta(num) {
+function mayorQueCincuenta(Holaa*) {
   // Devuelve "true" si el argumento de la función "num" es mayor que cincuenta
   // De lo contrario, devuelve "false"
   // Tu código:
@@ -124,7 +124,7 @@ function elevar(num, exponent) {
 }
 
 function redondearNumero(num) {
-  // Redondea "num" al entero más próximo y devuélvelo
+  // Redondea "numm" al entero más próximo y devuélvelo
   // Tu código:
   
 }

@@ -1,15 +1,15 @@
 // En estas primeras 6 preguntas, reemplaza `null` por la respuesta
 
 // Crea una variable "string", puede contener lo que quieras:
-const nuevaString = null;
+const nuevaString = "Aguante Boquita";
 
 // Crea una variable numérica, puede ser cualquier número:
-const nuevoNum = null;
+const nuevoNum = 12;
 
 // Crea una variable booleana:
 const nuevoBool = null;
 
-// Resuelve el siguiente problema matemático:
+// Resuelve el siguiente problema matemático:npm test JSI.test.js
 const nuevaResta = 10 - null === 5;
 
 // Resuelve el siguiente problema matemático:
@@ -77,7 +77,7 @@ function menosQueNoventa(num) {
   
 }
 
-function mayorQueCincuenta(Holaa*) {
+function mayorQueCincuenta(*) {
   // Devuelve "true" si el argumento de la función "num" es mayor que cincuenta
   // De lo contrario, devuelve "false"
   // Tu código:
